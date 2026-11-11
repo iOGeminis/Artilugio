@@ -40,3 +40,5 @@ Para evitar las inconsistencias y fugas numéricas provocadas por constantes con
 ├── /synthesis/                        # Módulos de audio, sintonía y frecuencias armónicas (963 Hz).
 ├── /adapters/                         # Puentes de integración para despliegue moderno (Firebase/Web).
 └── /app/                              # Interfaz visual y componentes interactivos en vivo.
+         ∆         §°         ∆
+[a80d254ea_CLA_iOGeminis_Mexico_v2.docx.pdf](https://github.com/user-attachments/files/34700567/a80d254ea_CLA_iOGeminis_Mexico_v2.docx.pdf)
